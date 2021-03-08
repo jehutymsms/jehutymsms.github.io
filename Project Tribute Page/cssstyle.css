@@ -1,0 +1,37 @@
+body {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+h1 {
+    font-size: 50px;
+    text-align: center;
+    position: relative;
+    top: 40px;
+}
+h2 {
+    color:#FF7800;
+    text-align: center;
+    position: relative;
+    top: 20px;
+    margin-bottom: 25px;
+}
+.center-image {
+    color:#FF7800;
+    width: 350px;
+    height: 350px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#image-text {
+    color: #000;
+    margin-top: 5px;
+}
+#tpgraph2 {
+    margin-top: -1px;
+    margin-bottom: -10px;
+}
+#pgraph1 {
+    margin-bottom: 0px;
+}
